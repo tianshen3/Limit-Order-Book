@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.obj
+*.o
+*.exe
+*.log
+*.pdb
+
+# Visual Studio / IDE files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.vcxproj*
+*.vcproj*
+*.ncb
+*.opensdf
+*.sdf
+
+# Misc
+.DS_Store
+Thumbs.db
